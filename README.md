@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <p>I'm Julia, a software developer passionate about bringing design and backend together.<p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54rtor1&layout=compact)](https://github.com/54rtor1/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=54rtor1&layout=compact" /> 
+  </a>
+ </div> 
