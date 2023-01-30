@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <p>I'm Julia, a software developer who likes to bring design and backend together.<p>
+  <p>I'm Julia, a software developer with a love for design and creative solutions.<p>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=54rtor1&layout=compact" /> 
   </a>
