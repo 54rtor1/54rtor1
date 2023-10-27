@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 <div align="center">
   <p>I'm Julia, a software developer with a love for design and creative solutions.<p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=54rtor1&layout=compact" /> 
   </a>
  </div> 
